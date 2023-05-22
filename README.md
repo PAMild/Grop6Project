@@ -1,7 +1,7 @@
-The Github for each member:
+# The Github for each member:
 Yuchao Zhang:
-Back-end: https://github.com/YuchaoZhang1229/Hardhat-Solidity-JS
-Front-end: https://github.com/YuchaoZhang1229/FTGP-Aave-v3
+- Back-end: https://github.com/YuchaoZhang1229/Hardhat-Solidity-JS
+- Front-end: https://github.com/YuchaoZhang1229/FTGP-Aave-v3
 
 
 # Grop6Project
