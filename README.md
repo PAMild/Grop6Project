@@ -6,6 +6,9 @@ Yuchao Zhang:
 Jiabei Guo:
  - Back-end: https://github.com/BEIJIAMING/hardhat-test
 
+Pruetiwan/Worada: 
+- Front-end: https://github.com/nampeung22/groupProj
+
 # Grop6Project
  **1. Backend folder** <br />
  "Backend folder" contains just the code for the backend and test coding. However, it dose not icluding our frontend design.<br /><br />
