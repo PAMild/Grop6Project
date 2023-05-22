@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-.fixed-button {
-    position: fixed;
-    bottom: 50px;
-    right: 50px;
-  }
